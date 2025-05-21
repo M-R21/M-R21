@@ -1,23 +1,74 @@
-# 💫 About Me:
-🚀 **Welcome to My GitHub!** 🚀<br><br>👋 Hi there, I'm **Mahyar** – a passionate Computer Science student based in vibrant Berlin! 🌟<br><br>### About Me:<br><br>- 💻 **Backend Development Enthusiast**<br>  - Crafting robust, scalable, and efficient server-side solutions.<br>  - Skilled in Python<br>  - Experience with databases like SQLite <br><br>- 🎨 **Front-end Web Designer**<br>  - Creating visually stunning and user-friendly web interfaces.<br>  - Proficient in HTML, CSS, and JavaScript.<br>  - Familiar with React, Angular, and Vue.js.<br><br>- 🤖 **Machine Learning Aficionado**<br>  - Exploring the fascinating world of artificial intelligence.<br>  - Working on projects involving neural networks and deep learning.<br>  - Experimenting with TensorFlow and PyTorch.<br><br>- 🔧 **Hardware Engineering Buff**<br>  - Diving into the nuts and bolts of cutting-edge hardware tech.<br>  - Hands-on experience with Arduino and Raspberry Pi.<br>  - Knowledgeable in circuit design and embedded systems.<br><br>### What I'm Up To:<br><br>- 🌱 Constantly learning and staying up-to-date with the latest tech trends.<br>Feel free to explore my repositories and see what I'm working on! Happy coding! 💻✨
+<h1 align="center" style="font-size:2.8rem; font-weight:bold; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#0071e3;">
+  <img src="https://raw.githubusercontent.com/M-R21/assets/main/berlin-coding.gif" width="100%" style="border-radius: 12px;" /> I'm Mahyar
+</h1>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Backend-0d47a1?style=for-the-badge&logo=python&logoColor=42a5f5" />
+  <img src="https://img.shields.io/badge/Frontend-0d47a1?style=for-the-badge&logo=html5&logoColor=42a5f5" />
+  <img src="https://img.shields.io/badge/Machine_Learning-0d47a1?style=for-the-badge&logo=tensorflow&logoColor=42a5f5" />
+</p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=m-r21&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=m-r21&theme=cobalt&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-r21&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=M-R21&label=Visitors&color=0071e3&style=flat-square&labelColor=0d47a1" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=m-r21&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="70%" alt="3D Matrix Effect" />
+</div>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<details open>
+<summary>🧠 Developer Quote</summary>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=2000&color=42A5F5&center=true&vCenter=true&width=850&lines=The+people+who+are+crazy+enough+to+think+they+can+change+the+world;are+the+ones+who+do.++-+Steve+Jobs" alt="Developer Quote"/>
+</p>
+</details>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=m-r21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<details open>
+<summary>👨‍💻 About Me</summary>
+<p>
+I'm Mahyar – a Computer Science student based in Berlin 🇩🇪<br/>
+Building elegant solutions across backend, frontend, and AI systems.
+</p>
+<ul>
+  <li><strong>💻 Backend:</strong> Python, Django, SQLite, scalable architecture</li>
+  <li><strong>🎨 Frontend:</strong> HTML, CSS, JS, React, Angular, Vue</li>
+  <li><strong>🤖 AI & ML:</strong> TensorFlow, PyTorch, Deep Learning</li>
+  <li><strong>🔧 Hardware:</strong> Arduino, Raspberry Pi, Embedded Systems</li>
+</ul>
+<p>
+  <em>Driven by innovation and simplicity. Let the code speak. 🚀</em>
+</p>
+</details>
 
-[![](https://visitcount.itsvg.in/api?id=m-r21&icon=0&color=1)](https://visitcount.itsvg.in)
+<details open>
+<summary>🛠️ Skills & Tech Stack</summary>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/tools.gif" width="50%" alt="Animated Tools"/>
+</div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,rust,html,css,django,tensorflow,pytorch,numpy,pandas,matplotlib,sklearn,git,github,mysql,sqlite,gcloud,arduino,figma,gimp,inkscape,canva,postman" />
+</p>
+</details>
+
+<details open>
+<summary>📊 GitHub Insights</summary>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=M-R21&show_icons=true&theme=radical&hide_border=true&title_color=42a5f5&icon_color=0071e3&text_color=ffffff&bg_color=0d1117" />
+  <img src="https://streak-stats.demolab.com?user=M-R21&theme=radical&hide_border=true&ring=42a5f5&fire=0071e3&currStreakLabel=42a5f5" />
+</p>
+</details>
+
+<details open>
+<summary>🌐 Activity Timeline</summary>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-R21&theme=react-dark&hide_border=true&color=42a5f5&point=0071e3&line=42a5f5&bg_color=0d1117" />
+</p>
+</details>
+
+<div align="center">
+  <img height="120" width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=42a5f5&height=120&section=header&text=Thanks%20for%20visiting!&fontSize=30&fontColor=ffffff&animation=twinkling" />
+  <br />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,18,20,26&height=60&section=footer" />
+</div>
