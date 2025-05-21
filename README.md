@@ -1,6 +1,9 @@
-<h1 align="center" style="font-size:2.8rem; font-weight:bold; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#0071e3;">
-  <img src="https://raw.githubusercontent.com/M-R21/assets/main/berlin-coding.gif" width="100%" style="border-radius: 12px;" /> I'm Mahyar
+<h1 align="center" style="font-size:2.5rem; font-weight:bold; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color:#0071e3;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" style="border-radius:12px;" alt="Waving Hand Hello GIF" />
+  I'm Mahyar
 </h1>
+
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Backend-0d47a1?style=for-the-badge&logo=python&logoColor=42a5f5" />
@@ -14,7 +17,7 @@
 
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="Contribution Snake" width="100%" />
-  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="70%" alt="3D Matrix Effect" />
+  <img src="https://raw.githubusercontent.com/M-R21/M-R21/main/me.gif" width="70%" alt="Mahyar's GIF again" style="border-radius:12px;" />
 </div>
 
 <details open>
@@ -26,8 +29,8 @@
 
 <details open>
 <summary>👨‍💻 About Me</summary>
-<p>
-I'm Mahyar – a Computer Science student based in Berlin 🇩🇪<br/>
+<p align="center">
+I'm Mahyar – a Computer Science student based in Berlin 🇩🇪<br />
 Building elegant solutions across backend, frontend, and AI systems.
 </p>
 <ul>
@@ -36,9 +39,7 @@ Building elegant solutions across backend, frontend, and AI systems.
   <li><strong>🤖 AI & ML:</strong> TensorFlow, PyTorch, Deep Learning</li>
   <li><strong>🔧 Hardware:</strong> Arduino, Raspberry Pi, Embedded Systems</li>
 </ul>
-<p>
-  <em>Driven by innovation and simplicity. Let the code speak. 🚀</em>
-</p>
+<p align="center"><em>Driven by innovation and simplicity. Let the code speak. 🚀</em></p>
 </details>
 
 <details open>
@@ -46,24 +47,23 @@ Building elegant solutions across backend, frontend, and AI systems.
 <div align="center">
   <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/Assets/tools.gif" width="50%" alt="Animated Tools"/>
 </div>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,html,css,django,tensorflow,pytorch,numpy,pandas,matplotlib,sklearn,git,github,mysql,sqlite,gcloud,arduino,figma,gimp,inkscape,canva,postman" />
+  <img src="https://skillicons.dev/icons?i=python,rust,html,css,django,tensorflow,pytorch,numpy,pandas,matplotlib,sklearn,git,github,mysql,sqlite,gcloud,arduino,figma,gimp,inkscape,canva,postman" alt="Skills Icons" />
 </p>
 </details>
 
 <details open>
 <summary>📊 GitHub Insights</summary>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-R21&show_icons=true&theme=radical&hide_border=true&title_color=42a5f5&icon_color=0071e3&text_color=ffffff&bg_color=0d1117" />
-  <img src="https://streak-stats.demolab.com?user=M-R21&theme=radical&hide_border=true&ring=42a5f5&fire=0071e3&currStreakLabel=42a5f5" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-R21&show_icons=true&theme=radical&hide_border=true&title_color=42a5f5&icon_color=0071e3&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=M-R21&theme=radical&hide_border=true&ring=42a5f5&fire=0071e3&currStreakLabel=42a5f5" alt="GitHub Streak" />
 </p>
 </details>
 
 <details open>
 <summary>🌐 Activity Timeline</summary>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-R21&theme=react-dark&hide_border=true&color=42a5f5&point=0071e3&line=42a5f5&bg_color=0d1117" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-R21&theme=react-dark&hide_border=true&color=42a5f5&point=0071e3&line=42a5f5&bg_color=0d1117" alt="GitHub Activity Graph" />
 </p>
 </details>
 
